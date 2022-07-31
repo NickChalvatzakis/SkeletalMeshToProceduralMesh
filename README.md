@@ -8,6 +8,6 @@ Call The function and add your Skeletal Mesh, a Procedural Mesh Component, Selec
 
 This script will correctly copy the pose of the skeletal mesh in the frame the function is called.
 
-![Showcase](https://github.com/NickCh1996/SkeletalMeshToProceduralMesh/blob/main/show.jpg?raw=true)
+![Showcase](https://github.com/NickChalvatzakis/SkeletalMeshToProceduralMesh/blob/main/show.jpg?raw=true)
 
 
